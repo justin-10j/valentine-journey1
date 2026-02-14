@@ -138,7 +138,7 @@ const days = [
 
   { title: "❤️ Valentine’s Day", mode: "valentine", item: "video",
     arrive: "I stayed here… from day to night.\nThinking how far we’ve come.",
-    msg: "Look up… 💫\nThis is my heart, speaking to you. As you always remember, you're my first love.\nNo matter what happens I'll be there with you.\nI love you a lot. Waiting for our JP Villa.\nSide chick aayi enkilum pariganikku." }
+    msg: "Look up… 💫\nThis is my heart, speaking to you. \nNo matter what happens I'll be there with you.\nI love you a lot. \n never forget to consider at least as a Side chick ." }
 ];
 
 const STORAGE_KEY = "vj_progress_v3_toronto";
